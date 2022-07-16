@@ -1,2 +1,2 @@
-# Algorithm_Study_Inuk_Solve
+# python_algorithm_study 
  
