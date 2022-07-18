@@ -1,5 +1,7 @@
 from collections import deque
 
+a = int(input("숫자 입력: "))
+
 
 def solution(num):
     card_deck = deque([i for i in range(1, num + 1)])
@@ -11,4 +13,4 @@ def solution(num):
     return card_deck[0]
 
 
-print(solution(50000))
+print(solution(a))
