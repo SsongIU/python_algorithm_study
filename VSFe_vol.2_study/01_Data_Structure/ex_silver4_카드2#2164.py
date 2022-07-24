@@ -1,6 +1,6 @@
 from collections import deque
 
-a = int(input("숫자 입력: "))
+a = int(input())
 
 
 def solution(num):
